@@ -1,0 +1,41 @@
+07/04/
+Manque les trucs du dernier mail (4.1 et 4.3?)
+Quelques descriptions des questions dans les résultats
+Hypothèses
+
+29/01:
+
+Faire le questionnaire en annexe, et l'introduire dans méthodes, revoir les résultats
+
+29/01 or 30/01: 
+Tout relore
+Les références dans l'intro
+Brosse à dent, rasoir, draps (Mall of Scandinavia) 
+
+Results
+Conclusion
+
+
+
+Stats(41)
+Q1: 32
+Q2: 51
+Q3: 79
+Q4: 13.51% 86.49%
+Q5: 41.38% 27.59% 13.79% 17.24%
+Q6: 20.69% 41.38% 3.45% 34.48%
+Q7:0.00% 25.93% 70.37% 3.70%
+Q8: 3.70% 7.41% 59.26% 29.63%
+Q9: 7.41% 7.41% 51.85% 33.33%
+
+
+
+
+
+
+    \item Extending already existing semantic mesh segmentation techniques to object identification
+    \item Studying the influence of mesh resolution on a state-of-the-art unsupervised mesh segmentation technique
+    \item Suggesting of new geometrical features for object description in lower-resolution meshes
+    \item Proposing of an unsupervised artefact identification
+
+Dans la méthodes, mettre un lien vers résultats Q1 (pour niveau de connaissances)

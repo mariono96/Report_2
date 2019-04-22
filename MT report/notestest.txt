@@ -1,0 +1,10 @@
+wilkison: p-value of <<0.05
+-> reject that they're from the same and easily tested that greenness > density
+
+chi2 contingency (for categorical) shows that mrf3 and mrf 4 both less correlated than marseille and bastia (or more like that if you decide to reject that bastia and amrseille are correlated, you decide to rej
+
+
+
+
+table for greenness test and one for all the chi2 tests
+incorporate changes and voilà
